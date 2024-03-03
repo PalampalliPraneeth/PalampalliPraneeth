@@ -1,25 +1,23 @@
 <!-- README Intro -->
-<h2 align='center'>Hey There! I am Dileep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
+<h2 align='center'>Hello! I am Praneeth <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/dileep-kanumuri-/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/DileepKanumuri?t=SVU7kUwxhbVIsA2HWzMszA&s=09" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+    <a href="https://github.com/PalampalliPraneeth/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   
 </h5>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;Born+too+early+to+explore+the+Galaxy%2C;+Born+just+in+time+to+explore+Data.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Front-End+Developer;Data+Analyst;Business+Analyst">
   </a>
 </h1>
 
-<h6> Quote Credits: Vsauce </h6> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepkanumuri&label=Profile%20views&color=0e75b6&style=flat" alt="dileepkanumuri" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepkanumuri&label=Profile%20views&color=0e75b6&style=flat" alt="dileepkanumuri" /> </p>
+ -->
 
 <!--
-**dileepkanumuri/dileepkanumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PalampalliPraneeth/PalampalliPraneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
