@@ -7,7 +7,7 @@
 </h1>
 <h5 align="center">
   <code>
-    <a href="https://github.com/PalampalliPraneeth/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/praneethpalampalli/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
 
