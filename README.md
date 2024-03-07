@@ -19,8 +19,8 @@
 - 🌱 I’m currently learning about OpenCV, LLM and Implementing Nocode web applications using React Js. 
 - 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/praneethpalampalli/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:ppalampa@buffao.edu">ppalampa@buffao.edu</a>. I'm open to exploring opportunities for data projects and collaborations!
 
-<br/>
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
 <p align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PalampalliPraneeth&theme=default" alt="Praneeth's stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PalampalliPraneeth&theme=default" alt="Praneeth's stats" />
