@@ -30,7 +30,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PalampalliPraneeth" alt="Praneeth's streak" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
@@ -41,7 +41,7 @@
   <br />
   <br />
   <br />
-</div>
+</div>-->
 
 <!-- ## Trophies
 <details><summary>Discover</summary>
