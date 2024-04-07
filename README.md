@@ -17,7 +17,14 @@
 - 👀 I'm keen on utilizing my skills in Python, R, React.js, SQL, JavaScript, HTML, and CSS.
 - 💞️ I'm enthusiastic about partnering on data-centric projects, leveraging my proficiency in Python, Power BI, and SQL. Additionally, my expertise as a front-end developer using React.js will enrich the process, aiding in informed decision-making through thorough data analysis.
 - 🌱 I’m currently learning about OpenCV, LLM and Implementing Nocode web applications using React Js. 
-- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/praneethpalampalli/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:ppalampa@buffao.edu">ppalampa@buffao.edu</a>. I'm open to exploring opportunities for data projects and collaborations!
+<!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/praneethpalampalli/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:ppalampa@buffao.edu">ppalampa@buffao.edu</a>. I'm open to exploring opportunities for data projects and collaborations! -->
+## Contact details
+<p>
+  
+<b>Connect with me on [![Linkedin: Disha](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praneethpalampalli/) and let's have a chat!</b>
+<br><i>or</i><br>
+<b>You can reach out to me on [![Gmail: Disha](https://img.shields.io/badge/-dishakge@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ppalampa@buffao.edu)
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
