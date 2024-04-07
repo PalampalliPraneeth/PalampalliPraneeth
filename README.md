@@ -109,8 +109,10 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-### IDE
+### Tools & IDE
 <p float="left">
+  <img alt="Google Data Studio" src="https://img.shields.io/badge/-Google Data Studio-669DF6?style=flat-square&logo=googledatastudio&logoColor=white" />
+  <img alt="Google Data Analytics" src="https://img.shields.io/badge/-Google Data Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </p>
