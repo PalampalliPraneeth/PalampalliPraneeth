@@ -122,5 +122,5 @@
 </p>
 
 
- ![](https://komarev.com/ghpvc/?username=PalampalliPraneeth&color=green)
+<p color:white>![](https://komarev.com/ghpvc/?username=PalampalliPraneeth&color=green)</p> 
 
