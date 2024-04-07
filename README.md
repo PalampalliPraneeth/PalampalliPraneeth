@@ -113,6 +113,10 @@
 <p float="left">
   <img alt="Google Data Studio" src="https://img.shields.io/badge/-Google Data Studio-669DF6?style=flat-square&logo=googledatastudio&logoColor=white" />
   <img alt="Google Data Analytics" src="https://img.shields.io/badge/-Google Data Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+   <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img alt="GoogleSheets" src="https://img.shields.io/badge/-GoogleSheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+    <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/-Microsoft PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </p>
