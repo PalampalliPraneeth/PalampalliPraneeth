@@ -5,10 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Front-End+Developer;Data+Analyst;Business+Analyst">
   </a>
 </h1>
-<h5 align="center">
+<!-- <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/praneethpalampalli/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+</h5> -->
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
