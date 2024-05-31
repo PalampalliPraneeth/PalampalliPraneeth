@@ -13,7 +13,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-- 👋 Hi, I’m Praneeth currently pursuing Master's in Business Analytics at University at Buffalo.
+- 👋 Hi, I’m Praneeth currently pursuing Master's in Business Analytics at University at Buffalo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I'm keen on utilizing my skills in Python, R, React.js, SQL, JavaScript, HTML, and CSS.
 - 💞️ I'm enthusiastic about partnering on data-centric projects, leveraging my proficiency in Python, Power BI, and SQL. Additionally, my expertise as a front-end developer using React.js will enrich the process, aiding in informed decision-making through thorough data analysis.
 - 🌱 I’m currently learning about OpenCV, LLM and Implementing Nocode web applications using React Js. 
