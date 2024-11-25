@@ -21,8 +21,8 @@
 ## Contact details
 <p>
   
-<b>Connect with me on [![Linkedin: Praneeth](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praneethpalampalli/) and let's have a chat!</b>
-<br><i>or</i><br>
+<!-- <b>Connect with me on [![Linkedin: Praneeth](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praneethpalampalli/) and let's have a chat!</b>
+<br><i>or</i><br> -->
 <b>You can reach out to me on [![Gmail: Praneeth](https://img.shields.io/badge/-ppalampa@buffalo.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ppalampa@buffao.edu)
 </p>
 
